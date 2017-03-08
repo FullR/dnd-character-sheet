@@ -1,7 +1,7 @@
 {
-  "name": "react-boilerplate",
-  "appName": "React Boilerplate",
-  "appId": "io.github.fullr.reactboilerplate",
+  "name": "dnd-character-sheet",
+  "appName": "DND Character Sheet",
+  "appId": "io.github.fullr.dnd-character-sheet",
   "cordovaPlatforms": [
     "android"
   ],
